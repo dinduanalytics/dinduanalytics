@@ -11,12 +11,11 @@ My focus is on the full analytics workflow: **cleaning → transforming → anal
 ## About Me
 
 - 📊 Building practical analytics projects around **sales, customers, operations, and business performance**
-- 🧹 Experienced with preparing messy datasets for analysis using **Excel and Power Query**
-- 🔎 Using **SQL** to investigate data, answer business questions, and work with relational datasets
-- 📈 Building interactive reports and dashboards with **Power BI and DAX**
-- 🧠 Interested in the reasoning behind the numbers — not just producing charts
-- 🌱 Currently progressing from **data analytics into Python and data science**
-- 🇳🇬 Based in Nigeria and building a portfolio around real-world, business-focused analysis
+- 🧹 Preparing datasets for analysis with **Excel and Power Query**
+- 🔎 Using **SQL** to investigate data and answer business questions
+- 📈 Building reports and dashboards with **Power BI and DAX**
+- 🌱 Progressing from data analytics into **Python and data science**
+- 🇳🇬 Based in Nigeria
 
 ---
 
@@ -24,41 +23,37 @@ My focus is on the full analytics workflow: **cleaning → transforming → anal
 
 | Area | Tools |
 | --- | --- |
-| **Spreadsheet Analysis** | Excel, PivotTables, XLOOKUP, INDEX/MATCH, Logical & Statistical Functions |
-| **Data Preparation** | Power Query, Data Cleaning, Transformation, Append & Merge |
-| **Business Intelligence** | Power BI, Data Modelling, DAX, Interactive Dashboards |
-| **Database Analysis** | SQL, MySQL, Joins, Subqueries, Aggregations, CASE, Date Analysis |
-| **Developing** | Python, Pandas, NumPy, Matplotlib |
+| Spreadsheet Analysis | Excel, PivotTables, Lookup & Logical Functions |
+| Data Preparation | Power Query, Data Cleaning, Transformation, Append & Merge |
+| Business Intelligence | Power BI, Data Modelling, DAX, Dashboards |
+| Database Analysis | SQL, MySQL, Joins, Subqueries, Aggregations, CASE, Date Analysis |
+| Developing | Python, Pandas, NumPy, Matplotlib |
 
 ---
 
 ## Selected Analytics Projects
 
-| Project | What I worked on | Tools |
+| Project | Business focus | Tools |
 | --- | --- | --- |
-| **Retail Sales & Customer Analysis** | Analysed sales, customers, products, regions, channels, payment methods and order performance to uncover business patterns. | Excel, Power Query |
-| **Retail Performance Dashboard** | Built KPI-driven reporting around sales performance, trends, categories and customer-related metrics. | Excel, Power BI |
-| **Classic Models SQL Analysis** | Answered business questions using customers, orders, products, payments and employees through relational SQL analysis. | MySQL, SQL |
-| **Data Cleaning & Transformation** | Identified missing values, duplicates, inconsistent formats, invalid records and structural issues before analysis. | Excel, Power Query |
-| **Data Modelling Practice** | Worked with related datasets using merging, appending, relationships and structured analytical tables. | Power Query, Power BI |
+| [Medical Equipment Procurement Analysis](projects/medical-equipment-procurement/README.md) | Procurement spending, equipment condition, maintenance and installation costs, supplier distribution, and delivery performance. | Excel, dashboarding |
+| Retail Sales & Customer Analysis | Sales performance across products, regions, channels, and customer segments. | Excel, Power Query |
+| Classic Models SQL Analysis | Business questions involving customers, orders, products, payments, and employees. | MySQL, SQL |
+| Data Cleaning & Transformation | Preparing inconsistent datasets for reliable analysis. | Excel, Power Query |
+| Data Modelling Practice | Combining related datasets and preparing structured analytical tables. | Power Query, Power BI |
 
-> More projects will be added as the portfolio develops.
+> Project pages will be expanded with verified findings, visuals, and downloadable materials as each case study is finalised.
 
 ---
 
 ## What I Bring
 
-**Data Preparation**  
-Turning inconsistent or messy source data into analysis-ready datasets.
+**Data Preparation** — turning inconsistent source data into analysis-ready datasets.
 
-**Analytical Thinking**  
-Breaking business questions into measurable metrics, comparisons and trends.
+**Analytical Thinking** — translating business questions into metrics, comparisons, and trends.
 
-**Visual Reporting**  
-Building dashboards that communicate the important information without unnecessary complexity.
+**Visual Reporting** — building dashboards that make important information easier to interpret.
 
-**Business Communication**  
-Explaining what the numbers mean, why they matter, and what can be done with the findings.
+**Business Communication** — explaining what the numbers mean and what decisions they may inform.
 
 ---
 
@@ -80,20 +75,13 @@ Interpret Findings
 Communicate Insights
 ```
 
-A dashboard is only useful when it helps someone **understand a problem or make a decision**.
+A dashboard is useful when it helps someone understand a problem or make a decision.
 
 ---
 
 ## Currently Building
 
-I'm developing a growing portfolio across:
-
-- **Excel** — advanced analysis, Power Query and dashboarding
-- **SQL** — business analysis and relational data
-- **Power BI** — modelling, DAX and interactive reporting
-- **Python** — the next stage of my analytics and data science development
-
-This profile will evolve with the work. New projects will include the **business problem, analytical process, key findings, and recommendations** rather than simply presenting a finished dashboard.
+I'm developing a practical portfolio across **Excel, SQL, and Power BI**, while progressing into **Python and data science**. Each project will document the business question, analytical process, verified findings, and recommendations.
 
 ---
 
@@ -101,10 +89,10 @@ This profile will evolve with the work. New projects will include the **business
 
 📧 **Email:** nwabachimdindu20@gmail.com
 
-💼 **LinkedIn:** Coming soon
+💼 **LinkedIn:** To be added
 
 ---
 
 ### Data → Analysis → Insight → Decision
 
-*Building practical analytics work, one project at a time.*
+*Practical analytics, documented one project at a time.*
