@@ -35,7 +35,7 @@ My focus is on the full analytics workflow: **cleaning → transforming → anal
 
 | Project | Business focus | Tools |
 | --- | --- | --- |
-| [Medical Equipment Procurement Analysis](projects/medical-equipment-procurement/README.md) | Procurement spending, equipment condition, maintenance and installation costs, supplier distribution, and delivery performance. | Excel, dashboarding |
+| [Medical Equipment Procurement Analysis](https://github.com/dinduanalytics/medical-equipment-procurement-analysis) | Procurement spending, equipment condition, maintenance and installation costs, supplier distribution, and delivery performance. | Excel, dashboarding |
 | Retail Sales & Customer Analysis | Sales performance across products, regions, channels, and customer segments. | Excel, Power Query |
 | Classic Models SQL Analysis | Business questions involving customers, orders, products, payments, and employees. | MySQL, SQL |
 | Data Cleaning & Transformation | Preparing inconsistent datasets for reliable analysis. | Excel, Power Query |
